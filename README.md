@@ -1,0 +1,2 @@
+# originos_ui_audio_mod
+通过Magisk模块修改originos系统音效
